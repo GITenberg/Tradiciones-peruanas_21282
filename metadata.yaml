@@ -1,0 +1,28 @@
+_repo: Tradiciones-peruanas_21282
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palma, Ricardo
+    birthdate: 1833
+    deathdate: 1919
+    gutenberg_agent_id: '9827'
+    url: http://www.gutenberg.org/2009/agents/9827
+    wikipedia: http://es.wikipedia.org/wiki/Ricardo_Palma
+description: ''
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21282'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peru -- History'
+- !lcsh 'Legends -- Peru'
+- !lcc 'F3401'
+title: Tradiciones peruanas
+url: http://www.gutenberg.org/ebooks/21282
