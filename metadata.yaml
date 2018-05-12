@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9827
     wikipedia: http://es.wikipedia.org/wiki/Ricardo_Palma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21282#Tradiciones-peruanas
 gutenberg_issued: '2007-05-04'
 gutenberg_type: Text
 identifiers:
